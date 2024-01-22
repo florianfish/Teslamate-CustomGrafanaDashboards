@@ -457,7 +457,7 @@
           ]
         }
       ],
-      "title": "Mileage",
+      "title": "Kilométrage",
       "type": "stat"
     },
     {
@@ -1457,7 +1457,7 @@
           ]
         }
       ],
-      "title": "Battery Capacity by Mileage",
+      "title": "Capacité de la batterie par kilométrage",
       "type": "xychart"
     }
   ],
